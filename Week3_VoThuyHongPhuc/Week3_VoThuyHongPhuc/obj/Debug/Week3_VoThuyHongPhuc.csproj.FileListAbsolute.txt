@@ -1,0 +1,16 @@
+D:\visual-studio-code\ltwindow\Week3_VoThuyHongPhuc\Week3_VoThuyHongPhuc\bin\Debug\Week3_VoThuyHongPhuc.exe.config
+D:\visual-studio-code\ltwindow\Week3_VoThuyHongPhuc\Week3_VoThuyHongPhuc\bin\Debug\Week3_VoThuyHongPhuc.exe
+D:\visual-studio-code\ltwindow\Week3_VoThuyHongPhuc\Week3_VoThuyHongPhuc\bin\Debug\Week3_VoThuyHongPhuc.pdb
+D:\visual-studio-code\ltwindow\Week3_VoThuyHongPhuc\Week3_VoThuyHongPhuc\bin\Debug\EntityFramework.dll
+D:\visual-studio-code\ltwindow\Week3_VoThuyHongPhuc\Week3_VoThuyHongPhuc\bin\Debug\EntityFramework.SqlServer.dll
+D:\visual-studio-code\ltwindow\Week3_VoThuyHongPhuc\Week3_VoThuyHongPhuc\bin\Debug\EntityFramework.xml
+D:\visual-studio-code\ltwindow\Week3_VoThuyHongPhuc\Week3_VoThuyHongPhuc\bin\Debug\EntityFramework.SqlServer.xml
+D:\visual-studio-code\ltwindow\Week3_VoThuyHongPhuc\Week3_VoThuyHongPhuc\obj\Debug\Week3_VoThuyHongPhuc.csproj.AssemblyReference.cache
+D:\visual-studio-code\ltwindow\Week3_VoThuyHongPhuc\Week3_VoThuyHongPhuc\obj\Debug\Week3_VoThuyHongPhuc.Form1.resources
+D:\visual-studio-code\ltwindow\Week3_VoThuyHongPhuc\Week3_VoThuyHongPhuc\obj\Debug\Week3_VoThuyHongPhuc.Properties.Resources.resources
+D:\visual-studio-code\ltwindow\Week3_VoThuyHongPhuc\Week3_VoThuyHongPhuc\obj\Debug\Week3_VoThuyHongPhuc.csproj.GenerateResource.cache
+D:\visual-studio-code\ltwindow\Week3_VoThuyHongPhuc\Week3_VoThuyHongPhuc\obj\Debug\Week3_VoThuyHongPhuc.csproj.CoreCompileInputs.cache
+D:\visual-studio-code\ltwindow\Week3_VoThuyHongPhuc\Week3_VoThuyHongPhuc\obj\Debug\Week3_Vo.9EFE58A5.Up2Date
+D:\visual-studio-code\ltwindow\Week3_VoThuyHongPhuc\Week3_VoThuyHongPhuc\obj\Debug\Week3_VoThuyHongPhuc.exe
+D:\visual-studio-code\ltwindow\Week3_VoThuyHongPhuc\Week3_VoThuyHongPhuc\obj\Debug\Week3_VoThuyHongPhuc.pdb
+D:\visual-studio-code\ltwindow\Week3_VoThuyHongPhuc\Week3_VoThuyHongPhuc\obj\Debug\Week3_VoThuyHongPhuc.exe.config
