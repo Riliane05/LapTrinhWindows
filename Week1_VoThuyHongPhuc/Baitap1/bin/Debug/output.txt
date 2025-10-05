@@ -1,0 +1,5 @@
+﻿So hinh: 8
+Tong dien tich: 5077.21
+Tong chu vi: 522.45
+Hinh chu nhat co dien tich lon nhat: L = 77, W = 55; S = 4235; P = 264.
+Hinh tron co chu vi nho nhat: R = 3.4; S = 36.32; P = 21.36.

@@ -1,0 +1,8 @@
+C:\Users\ASUS\OneDrive\Documents\Visual Studio Code\window\vothuyhongphuc_4901103068_CSWinWeek1\Baitap2\obj\Debug\Baitap2.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Documents\Visual Studio Code\window\vothuyhongphuc_4901103068_CSWinWeek1\Baitap2\obj\Debug\Baitap2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documents\Visual Studio Code\window\vothuyhongphuc_4901103068_CSWinWeek1\Baitap2\bin\Debug\Baitap2.exe.config
+C:\Users\ASUS\OneDrive\Documents\Visual Studio Code\window\vothuyhongphuc_4901103068_CSWinWeek1\Baitap2\bin\Debug\Baitap2.exe
+C:\Users\ASUS\OneDrive\Documents\Visual Studio Code\window\vothuyhongphuc_4901103068_CSWinWeek1\Baitap2\bin\Debug\Baitap2.pdb
+C:\Users\ASUS\OneDrive\Documents\Visual Studio Code\window\vothuyhongphuc_4901103068_CSWinWeek1\Baitap2\obj\Debug\Baitap2.exe
+C:\Users\ASUS\OneDrive\Documents\Visual Studio Code\window\vothuyhongphuc_4901103068_CSWinWeek1\Baitap2\obj\Debug\Baitap2.pdb
+C:\Users\ASUS\OneDrive\Documents\Visual Studio Code\window\vothuyhongphuc_4901103068_CSWinWeek1\Baitap2\obj\Debug\Baitap2.exe.config

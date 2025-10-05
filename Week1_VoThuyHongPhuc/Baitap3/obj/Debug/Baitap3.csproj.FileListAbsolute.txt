@@ -1,0 +1,8 @@
+C:\Users\ASUS\OneDrive\Documents\Visual Studio Code\window\vothuyhongphuc_4901103068_CSWinWeek1\Baitap3\bin\Debug\Baitap3.exe.config
+C:\Users\ASUS\OneDrive\Documents\Visual Studio Code\window\vothuyhongphuc_4901103068_CSWinWeek1\Baitap3\bin\Debug\Baitap3.exe
+C:\Users\ASUS\OneDrive\Documents\Visual Studio Code\window\vothuyhongphuc_4901103068_CSWinWeek1\Baitap3\bin\Debug\Baitap3.pdb
+C:\Users\ASUS\OneDrive\Documents\Visual Studio Code\window\vothuyhongphuc_4901103068_CSWinWeek1\Baitap3\obj\Debug\Baitap3.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Documents\Visual Studio Code\window\vothuyhongphuc_4901103068_CSWinWeek1\Baitap3\obj\Debug\Baitap3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documents\Visual Studio Code\window\vothuyhongphuc_4901103068_CSWinWeek1\Baitap3\obj\Debug\Baitap3.exe
+C:\Users\ASUS\OneDrive\Documents\Visual Studio Code\window\vothuyhongphuc_4901103068_CSWinWeek1\Baitap3\obj\Debug\Baitap3.pdb
+C:\Users\ASUS\OneDrive\Documents\Visual Studio Code\window\vothuyhongphuc_4901103068_CSWinWeek1\Baitap3\obj\Debug\Baitap3.exe.config
