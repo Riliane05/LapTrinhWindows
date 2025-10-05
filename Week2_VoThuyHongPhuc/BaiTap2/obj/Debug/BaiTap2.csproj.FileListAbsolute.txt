@@ -1,0 +1,10 @@
+D:\visual-studio-code\ltwindow\vothuyhongphuc_4901103068_CSWinWeek2\BaiTap2\bin\Debug\BaiTap2.exe.config
+D:\visual-studio-code\ltwindow\vothuyhongphuc_4901103068_CSWinWeek2\BaiTap2\bin\Debug\BaiTap2.exe
+D:\visual-studio-code\ltwindow\vothuyhongphuc_4901103068_CSWinWeek2\BaiTap2\bin\Debug\BaiTap2.pdb
+D:\visual-studio-code\ltwindow\vothuyhongphuc_4901103068_CSWinWeek2\BaiTap2\obj\Debug\BaiTap2.csproj.AssemblyReference.cache
+D:\visual-studio-code\ltwindow\vothuyhongphuc_4901103068_CSWinWeek2\BaiTap2\obj\Debug\BaiTap2.CalculatorForm.resources
+D:\visual-studio-code\ltwindow\vothuyhongphuc_4901103068_CSWinWeek2\BaiTap2\obj\Debug\BaiTap2.csproj.GenerateResource.cache
+D:\visual-studio-code\ltwindow\vothuyhongphuc_4901103068_CSWinWeek2\BaiTap2\obj\Debug\BaiTap2.csproj.CoreCompileInputs.cache
+D:\visual-studio-code\ltwindow\vothuyhongphuc_4901103068_CSWinWeek2\BaiTap2\obj\Debug\BaiTap2.exe
+D:\visual-studio-code\ltwindow\vothuyhongphuc_4901103068_CSWinWeek2\BaiTap2\obj\Debug\BaiTap2.pdb
+D:\visual-studio-code\ltwindow\vothuyhongphuc_4901103068_CSWinWeek2\BaiTap2\obj\Debug\BaiTap2.exe.config
