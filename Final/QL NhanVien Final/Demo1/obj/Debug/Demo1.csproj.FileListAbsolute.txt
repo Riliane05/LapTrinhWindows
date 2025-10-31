@@ -1,0 +1,150 @@
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final\Demo1\bin\Debug\Demo1.exe.config
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final\Demo1\bin\Debug\Demo1.exe
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final\Demo1\bin\Debug\Demo1.pdb
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final\Demo1\obj\Debug\Demo1.csproj.AssemblyReference.cache
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final\Demo1\obj\Debug\Demo1.FormLogin.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final\Demo1\obj\Debug\Demo1.FromMain.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final\Demo1\obj\Debug\Demo1.Properties.Resources.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final\Demo1\obj\Debug\Demo1.csproj.GenerateResource.cache
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final\Demo1\obj\Debug\Demo1.csproj.CoreCompileInputs.cache
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final\Demo1\obj\Debug\Demo1.exe
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final\Demo1\obj\Debug\Demo1.pdb
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final\Demo1\obj\Debug\Demo1.exe.config
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final\Demo1\obj\Debug\Demo1.FormEditEmployee.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final\Demo1\obj\Debug\Demo1.FromAddNewEmployee.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final\Demo1\obj\Debug\Demo1.FromDepartment.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final\Demo1\obj\Debug\Demo1.FromUser.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final\Demo1\obj\Debug\Demo1.FromShowInfoEmployee.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-nal\Demo1\bin\Debug\Demo1.exe.config
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-nal\Demo1\bin\Debug\Demo1.exe
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-nal\Demo1\bin\Debug\Demo1.pdb
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-nal\Demo1\bin\Debug\EntityFramework.dll
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-nal\Demo1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-nal\Demo1\bin\Debug\EntityFramework.xml
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-nal\Demo1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-nal\Demo1\obj\Debug\Demo1.csproj.AssemblyReference.cache
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-nal\Demo1\obj\Debug\Demo1.exe.config
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-nal\Demo1\obj\Debug\Demo1.FormEditEmployee.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-nal\Demo1\obj\Debug\Demo1.FormLogin.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-nal\Demo1\obj\Debug\Demo1.Properties.Resources.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-nal\Demo1\obj\Debug\Demo1.csproj.GenerateResource.cache
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-nal\Demo1\obj\Debug\Demo1.csproj.CoreCompileInputs.cache
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-nal\Demo1\obj\Debug\Demo1.csproj.Up2Date
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-nal\Demo1\obj\Debug\Demo1.exe
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-nal\Demo1\obj\Debug\Demo1.pdb
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-nal\Demo1\obj\Debug\Demo1.FormAddNewEmployee.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-nal\Demo1\obj\Debug\Demo1.FormDepartment.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-nal\Demo1\obj\Debug\Demo1.FormMain.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-nal\Demo1\obj\Debug\Demo1.FormShowInfoEmployee.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-nal\Demo1\obj\Debug\Demo1.FormUser.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-nal\Demo1\obj\Debug\Demo1.Migrations.UpdateModel.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-nal\Demo1\obj\Debug\Demo1.Migrations.AddAvatarToEmployee.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-sáng 23-7\Demo1\bin\Debug\Demo1.exe.config
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-sáng 23-7\Demo1\bin\Debug\Demo1.exe
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-sáng 23-7\Demo1\bin\Debug\Demo1.pdb
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-sáng 23-7\Demo1\bin\Debug\EntityFramework.dll
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-sáng 23-7\Demo1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-sáng 23-7\Demo1\bin\Debug\EntityFramework.xml
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-sáng 23-7\Demo1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-sáng 23-7\Demo1\obj\Debug\Demo1.csproj.AssemblyReference.cache
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-sáng 23-7\Demo1\obj\Debug\Demo1.exe.config
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-sáng 23-7\Demo1\obj\Debug\Demo1.FormEditEmployee.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-sáng 23-7\Demo1\obj\Debug\Demo1.FormAddNewEmployee.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-sáng 23-7\Demo1\obj\Debug\Demo1.FormDepartment.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-sáng 23-7\Demo1\obj\Debug\Demo1.FormLogin.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-sáng 23-7\Demo1\obj\Debug\Demo1.FormMain.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-sáng 23-7\Demo1\obj\Debug\Demo1.FormShowInfoEmployee.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-sáng 23-7\Demo1\obj\Debug\Demo1.FormUser.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-sáng 23-7\Demo1\obj\Debug\Demo1.Migrations.UpdateModel.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-sáng 23-7\Demo1\obj\Debug\Demo1.Migrations.AddAvatarToEmployee.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-sáng 23-7\Demo1\obj\Debug\Demo1.Properties.Resources.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-sáng 23-7\Demo1\obj\Debug\Demo1.csproj.GenerateResource.cache
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-sáng 23-7\Demo1\obj\Debug\Demo1.csproj.CoreCompileInputs.cache
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-sáng 23-7\Demo1\obj\Debug\Demo1.csproj.Up2Date
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-sáng 23-7\Demo1\obj\Debug\Demo1.exe
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-sáng 23-7\Demo1\obj\Debug\Demo1.pdb
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-sáng 23-7\Demo1\obj\Debug\Demo1.Migrations.AddTimekeepingToEmployee.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-sáng 23-7\Demo1\obj\Debug\Demo1.FormTimekeeping.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best\Demo1\bin\Debug\Demo1.exe.config
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best\Demo1\bin\Debug\Demo1.exe
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best\Demo1\bin\Debug\Demo1.pdb
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best\Demo1\bin\Debug\EntityFramework.dll
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best\Demo1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best\Demo1\bin\Debug\EntityFramework.xml
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best\Demo1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best\Demo1\obj\Debug\Demo1.csproj.AssemblyReference.cache
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best\Demo1\obj\Debug\Demo1.exe.config
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best\Demo1\obj\Debug\Demo1.FormEditEmployee.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best\Demo1\obj\Debug\Demo1.FormAddNewEmployee.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best\Demo1\obj\Debug\Demo1.FormDepartment.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best\Demo1\obj\Debug\Demo1.FormLogin.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best\Demo1\obj\Debug\Demo1.FormMain.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best\Demo1\obj\Debug\Demo1.FormShowInfoEmployee.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best\Demo1\obj\Debug\Demo1.FormTimekeeping.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best\Demo1\obj\Debug\Demo1.FormUser.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best\Demo1\obj\Debug\Demo1.Migrations.UpdateModel.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best\Demo1\obj\Debug\Demo1.Migrations.AddAvatarToEmployee.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best\Demo1\obj\Debug\Demo1.Migrations.AddTimekeepingToEmployee.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best\Demo1\obj\Debug\Demo1.Properties.Resources.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best\Demo1\obj\Debug\Demo1.csproj.GenerateResource.cache
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best\Demo1\obj\Debug\Demo1.csproj.CoreCompileInputs.cache
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best\Demo1\obj\Debug\Demo1.csproj.Up2Date
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best\Demo1\obj\Debug\Demo1.exe
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best\Demo1\obj\Debug\Demo1.pdb
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best\Demo1\obj\Debug\Demo1.Migrations.AddTimekeepingRecordTable.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best1\Demo1\bin\Debug\Demo1.exe.config
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best1\Demo1\bin\Debug\Demo1.exe
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best1\Demo1\bin\Debug\Demo1.pdb
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best1\Demo1\bin\Debug\EntityFramework.dll
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best1\Demo1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best1\Demo1\bin\Debug\EntityFramework.xml
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best1\Demo1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best1\Demo1\obj\Debug\Demo1.csproj.AssemblyReference.cache
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best1\Demo1\obj\Debug\Demo1.exe.config
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best1\Demo1\obj\Debug\Demo1.FormEditEmployee.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best1\Demo1\obj\Debug\Demo1.FormAddNewEmployee.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best1\Demo1\obj\Debug\Demo1.FormDepartment.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best1\Demo1\obj\Debug\Demo1.FormLogin.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best1\Demo1\obj\Debug\Demo1.FormMain.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best1\Demo1\obj\Debug\Demo1.FormShowInfoEmployee.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best1\Demo1\obj\Debug\Demo1.FormTimekeeping.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best1\Demo1\obj\Debug\Demo1.FormUser.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best1\Demo1\obj\Debug\Demo1.Migrations.UpdateModel.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best1\Demo1\obj\Debug\Demo1.Migrations.AddAvatarToEmployee.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best1\Demo1\obj\Debug\Demo1.Migrations.AddTimekeepingToEmployee.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best1\Demo1\obj\Debug\Demo1.Migrations.AddTimekeepingRecordTable.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best1\Demo1\obj\Debug\Demo1.Properties.Resources.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best1\Demo1\obj\Debug\Demo1.csproj.GenerateResource.cache
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best1\Demo1\obj\Debug\Demo1.csproj.CoreCompileInputs.cache
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best1\Demo1\obj\Debug\Demo1.csproj.Up2Date
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best1\Demo1\obj\Debug\Demo1.exe
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best1\Demo1\obj\Debug\Demo1.pdb
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-best1\Demo1\obj\Debug\Demo1.FormTimekeeping_Admin_.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-Final\Demo1\bin\Debug\Demo1.exe.config
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-Final\Demo1\bin\Debug\Demo1.exe
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-Final\Demo1\bin\Debug\Demo1.pdb
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-Final\Demo1\bin\Debug\EntityFramework.dll
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-Final\Demo1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-Final\Demo1\bin\Debug\EntityFramework.xml
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-Final\Demo1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-Final\Demo1\obj\Debug\Demo1.csproj.AssemblyReference.cache
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-Final\Demo1\obj\Debug\Demo1.exe.config
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-Final\Demo1\obj\Debug\Demo1.FormEditEmployee.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-Final\Demo1\obj\Debug\Demo1.FormAddNewEmployee.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-Final\Demo1\obj\Debug\Demo1.FormDepartment.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-Final\Demo1\obj\Debug\Demo1.FormLogin.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-Final\Demo1\obj\Debug\Demo1.FormMain.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-Final\Demo1\obj\Debug\Demo1.FormShowInfoEmployee.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-Final\Demo1\obj\Debug\Demo1.FormTimekeeping.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-Final\Demo1\obj\Debug\Demo1.FormTimekeeping_Admin_.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-Final\Demo1\obj\Debug\Demo1.FormUser.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-Final\Demo1\obj\Debug\Demo1.Migrations.UpdateModel.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-Final\Demo1\obj\Debug\Demo1.Migrations.AddAvatarToEmployee.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-Final\Demo1\obj\Debug\Demo1.Migrations.AddTimekeepingToEmployee.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-Final\Demo1\obj\Debug\Demo1.Migrations.AddTimekeepingRecordTable.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-Final\Demo1\obj\Debug\Demo1.Properties.Resources.resources
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-Final\Demo1\obj\Debug\Demo1.csproj.GenerateResource.cache
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-Final\Demo1\obj\Debug\Demo1.csproj.CoreCompileInputs.cache
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-Final\Demo1\obj\Debug\Demo1.csproj.Up2Date
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-Final\Demo1\obj\Debug\Demo1.exe
+D:\Hoai Anh\HK He (nam 2)\LT Wins\Final-Final\Demo1\obj\Debug\Demo1.pdb
